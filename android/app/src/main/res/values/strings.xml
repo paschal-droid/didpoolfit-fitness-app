@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DidPoolFit</string>
+    <string name="facebook_app_id">1108479396906759</string>
+    <string name="fb_login_protocol_scheme">fb1108479396906759</string>
+    <string name="facebook_client_token">7b08368eeadad4cf25cab5649ec081b7</string>
+</resources>

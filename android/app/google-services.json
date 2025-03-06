@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922065492010",
+    "project_id": "didpoolfit",
+    "storage_bucket": "didpoolfit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922065492010:android:a89bb0b68e8a99f02b8b53",
+        "android_client_info": {
+          "package_name": "com.didpoolfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922065492010-10nq0ro0ti2etss0mtbci4tgj1et6mnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.didpoolfit",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "922065492010-548keh7ld4290qs0fchmijebo23uoder.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4KSbDog0DXrY86gtuSGMZWm7HjRA6y_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922065492010-548keh7ld4290qs0fchmijebo23uoder.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

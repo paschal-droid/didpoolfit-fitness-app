@@ -1,0 +1,550 @@
+[
+  {
+    "name": "Full-Body Workout",
+    "estimatedTime": "30 minutes",
+    "estimatedCalories": "300 calories",
+    "workoutId": "full",
+    "equipments": [
+      {
+        "name": "Body Weight",
+        "animatedImage": ""
+      }
+    ],
+    "exercises": [
+      {
+        "id": 1,
+        "name": "Push-Up",
+        "description": "A classic bodyweight exercise that primarily targets the chest muscles, while also engaging the triceps and shoulders. Push-ups are great for building upper body strength and endurance.",
+        "equipment": "Body Weight",
+        "target": "Chest",
+        "secondaryMuscles": ["Triceps", "Shoulders", "Core"],
+        "instructions": [
+          "Start in a high plank position with your hands slightly wider than shoulder-width apart.",
+          "Lower your body until your chest nearly touches the floor.",
+          "Push back up to the starting position.",
+          "Keep your core tight throughout the movement."
+        ],
+        "reps": "15 reps",
+        "exerciseUrl": "https://images.pexels.com/photos/4753990/pexels-photo-4753990.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "gifUrl": "https://tenor.com/bqGy3.gif"
+      },
+      {
+        "id": 2,
+        "name": "Burpees",
+        "description": "An intense full-body exercise that improves cardiovascular endurance and strength by engaging multiple muscle groups in one dynamic movement.",
+        "equipment": "Body Weight",
+        "target": "Full Body",
+        "secondaryMuscles": ["Legs", "Core", "Shoulders"],
+        "instructions": [
+          "Start in a standing position.",
+          "Drop into a squat with your hands on the floor.",
+          "Kick your feet back into a plank position.",
+          "Perform a push-up, then jump your feet back to the squat position.",
+          "Explosively jump into the air, reaching your arms overhead."
+        ],
+        "reps": "10 reps",
+        "exerciseUrl": "https://media.istockphoto.com/id/1419462881/photo/guide-of-a-young-woman-to-do-correct-burpee-exercises.jpg?s=612x612&w=0&k=20&c=FQ2SovpkrYeL5NY-ryzGZC6kALP8q-eUw5gEGZ2eC2Q=",
+        "gifUrl": "https://www.kettlebellkings.com/cdn/shop/articles/burpees-icegif-1.gif?v=1712303391&width=700"
+      },
+      {
+        "id": 3,
+        "name": "Mountain Climbers",
+        "description": "A core-strengthening exercise that also boosts heart rate, targeting the abs, legs, and shoulders in a fast-paced movement.",
+        "equipment": "Body Weight",
+        "target": "Core",
+        "secondaryMuscles": ["Shoulders", "Legs"],
+        "instructions": [
+          "Start in a high plank position.",
+          "Drive your right knee toward your chest.",
+          "Quickly switch legs, bringing your left knee toward your chest.",
+          "Continue alternating legs as fast as possible."
+        ],
+        "time": "30 seconds",
+        "exerciseUrl": "https://hips.hearstapps.com/hmg-prod/images/rw-jess-mountain-climber-1596573079.jpg",
+        "gifUrl": "https://tenor.com/72OW.gif"
+      },
+      {
+        "id": 4,
+        "name": "Jumping Jacks",
+        "description": "A full-body exercise that helps improve cardiovascular endurance and coordination by engaging both the upper and lower body.",
+        "equipment": "Body Weight",
+        "target": "Full Body",
+        "secondaryMuscles": ["Legs", "Shoulders", "Core"],
+        "instructions": [
+          "Start standing with your feet together and hands at your sides.",
+          "Jump your feet out to the sides while raising your arms overhead.",
+          "Quickly reverse the movement, returning to the starting position.",
+          "Repeat continuously."
+        ],
+        "time": "1 minute",
+        "exerciseUrl": "https://images.ctfassets.net/0k812o62ndtw/752Fhu4JZgktRxO7m9MOme/4643f9fb661356c903c95c6eaf2130d1/exercise20170420-7482-g7qmpuca5857b3ac73f5eb9cd90f7a8ed4851f.png",
+        "gifUrl": "https://artimg.gympik.com/articles/wp-content/uploads/2020/02/jumping-jacks-gif-5.gif"
+      },
+      {
+        "id": 5,
+        "name": "Plank",
+        "description": "A static core exercise that strengthens the abdominal muscles and improves overall stability.",
+        "equipment": "Body Weight",
+        "target": "Core",
+        "secondaryMuscles": ["Shoulders", "Glutes", "Legs"],
+        "instructions": [
+          "Start in a forearm plank position with your body in a straight line.",
+          "Hold the position while keeping your core tight.",
+          "Avoid letting your hips drop or rise.",
+          "Maintain for the desired amount of time."
+        ],
+        "time": "45 seconds",
+        "exerciseUrl": "https://images.pexels.com/photos/7592354/pexels-photo-7592354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "gifUrl": "https://tenor.com/bWipA.gif"
+      },
+      {
+        "id": 6,
+        "name": "Squat to Press",
+        "description": "A compound exercise that targets both the lower body and shoulders, improving strength and coordination.",
+        "equipment": "Body Weight",
+        "target": "Legs",
+        "secondaryMuscles": ["Shoulders", "Core"],
+        "instructions": [
+          "Start in a standing position with your feet shoulder-width apart.",
+          "Perform a squat, lowering your body as if sitting back into a chair.",
+          "As you return to standing, press your hands overhead.",
+          "Repeat the movement."
+        ],
+        "reps": "12 reps",
+        "exerciseUrl": "https://www.eatthis.com/wp-content/uploads/sites/4/2023/11/dumbbell-squat-to-press.jpeg?quality=82&strip=1",
+        "gifUrl": "https://media1.popsugar-assets.com/files/thumbor/YZrcm-bvcORVtQsFp623krQu1i8/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/08/27/563/n/1922729/77c32b28677af8ca_IMB_bXDD8a/i/Squat-Into-Overhead-Press.GIF"
+      },
+      {
+        "id": 7,
+        "name": "Lunge to Knee Drive",
+        "description": "A dynamic exercise that targets the legs and core while improving balance and coordination.",
+        "equipment": "Body Weight",
+        "target": "Legs",
+        "secondaryMuscles": ["Core", "Glutes"],
+        "instructions": [
+          "Start in a standing position.",
+          "Step forward with your right leg and lower into a lunge.",
+          "Drive your right knee up toward your chest as you stand back up.",
+          "Repeat on the other side."
+        ],
+        "reps": "10 reps each side",
+        "exerciseUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWkct3sUmJDWNoMGQ1_uoOUnTNjdxPV-NK4g&s",
+        "gifUrl": "https://media1.popsugar-assets.com/files/thumbor/ZKc_ErpuR8gCNLp4Bqf1l28rhhw=/fit-in/792x446/top/filters:format_auto():upscale()/2021/02/03/007/n/45061871/b42d89c7601b2d6f29bba9.95176952_01_REVERSE_L.gif"
+      },
+      {
+        "id": 8,
+        "name": "High Knees",
+        "description": "A cardio-intensive exercise that engages the legs and core, promoting cardiovascular endurance and strength.",
+        "equipment": "Body Weight",
+        "target": "Legs",
+        "secondaryMuscles": ["Core", "Hip Flexors"],
+        "instructions": [
+          "Start standing with your feet hip-width apart.",
+          "Run in place, driving your knees toward your chest as high as possible.",
+          "Keep your core engaged and maintain a fast pace."
+        ],
+        "time": "30 seconds",
+        "exerciseUrl": "https://www.wellandgood.com/wp-content/uploads/2020/04/Getty-Images-Todor-Tsvetkov-high-knees-exercise.jpg",
+        "gifUrl": "https://tenor.com/TJ3J.gif"
+      },
+      {
+        "id": 9,
+        "name": "Inchworm",
+        "description": "A full-body exercise that engages the core, shoulders, and legs through a series of bodyweight movements.",
+        "equipment": "Body Weight",
+        "target": "Core",
+        "secondaryMuscles": ["Shoulders", "Legs"],
+        "instructions": [
+          "Start standing with your feet hip-width apart.",
+          "Bend at your hips and walk your hands forward into a plank position.",
+          "Perform a push-up, then walk your hands back to your feet and stand up.",
+          "Repeat the movement."
+        ],
+        "reps": "10 reps",
+        "exerciseUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqpmYhJ31VgKGgDgZHWh2ckhHKSjDR3YRayQ&s",
+        "gifUrl": "https://www.verywellfit.com/thmb/MlB-R4ujZ7evEwNLhdB4QxTzYAc=/750x0/filters:gifv(webm)/73--InchwormGIF-9a268be275804d59b0c34b9d357d6015.gif"
+      },
+      {
+        "id": 10,
+        "name": "Spider-Man Push-Up",
+        "description": "A variation of the push-up that enhances core stability and targets the chest, triceps, and legs in a coordinated movement.",
+        "equipment": "Body Weight",
+        "target": "Chest",
+        "secondaryMuscles": ["Triceps", "Core", "Legs"],
+        "instructions": [
+          "Start in a high plank position.",
+          "As you lower into a push-up, bring your right knee toward your right elbow.",
+          "Push back up to the starting position and return your leg.",
+          "Repeat on the other side."
+        ],
+        "reps": "12 reps",
+        "exerciseUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-zYcC6efwrkFt74y9YReGLMOnEn1ZcwV6vw&s",
+        "gifUrl": "https://j.gifs.com/vM9r9O.gif"
+      }
+    ]
+  },
+  {
+    "name": "Lower-Body Workout",
+    "workoutId": "low",
+    "equipments": [
+      {
+        "name": "Body Weight",
+        "animatedImage": ""
+      }
+    ],
+    "estimatedTime": "35 minutes",
+    "estimatedCalories": "350 calories",
+    "exercises": [
+      {
+        "id": 11,
+        "name": "Squat",
+        "description": "A foundational lower-body exercise that strengthens the legs, glutes, and core while promoting balance and stability.",
+        "equipment": "Body Weight",
+        "target": "Legs",
+        "secondaryMuscles": ["Glutes", "Core"],
+        "instructions": [
+          "Start with your feet shoulder-width apart.",
+          "Lower your body as if sitting back into a chair.",
+          "Keep your chest up and knees behind your toes.",
+          "Return to standing and repeat."
+        ],
+        "reps": "15 reps",
+        "exerciseUrl": "https://i0.wp.com/womensbest.blog/wp-content/uploads/2019/11/01_WB_Blog_Header_65.jpg?fit=1000%2C510&ssl=1",
+        "gifUrl": "https://dmacupuncture.nyc/wp-content/uploads/2019/05/mini-squat-gif.gif"
+      },
+      {
+        "id": 12,
+        "name": "Glute Bridge",
+        "description": "An exercise that isolates the glute muscles while also engaging the hamstrings and core, perfect for building posterior strength.",
+        "equipment": "Body Weight",
+        "target": "Glutes",
+        "secondaryMuscles": ["Hamstrings", "Core"],
+        "instructions": [
+          "Lie on your back with your knees bent and feet flat on the floor.",
+          "Lift your hips toward the ceiling, squeezing your glutes at the top.",
+          "Lower back down and repeat."
+        ],
+        "reps": "20 reps",
+        "exerciseUrl": "https://media.istockphoto.com/id/1365007140/photo/fitness-woman-doing-glute-bridge-exercise-with-resistance-band-on-gray-background-athletic.jpg?s=612x612&w=0&k=20&c=CVzD4J7huh8s8HQhQGayYkf1EsnhhcAFoA_V-EwIC9o=",
+        "gifUrl": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFnZmh0d3Y4YTEwZDFveTV5cm1nN3RiY2xqOXN1bGU4Mm16Nzk3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WS7BHNWdQq0yuWpHPY/giphy-downsized.gif"
+      },
+      {
+        "id": 13,
+        "name": "Lunges",
+        "description": "A unilateral exercise that targets the quads, glutes, and core, improving balance and leg strength.",
+        "equipment": "Body Weight",
+        "target": "Legs",
+        "secondaryMuscles": ["Glutes", "Core"],
+        "instructions": [
+          "Start in a standing position.",
+          "Step forward with one leg and lower your hips until both knees are at 90-degree angles.",
+          "Push back up to the starting position and switch legs.",
+          "Repeat on the other side."
+        ],
+        "reps": "12 reps each side",
+        "exerciseUrl": "https://media.istockphoto.com/id/1210548146/photo/slim-hispanic-girl-doing-lunges-with-dumbbells-at-home-empty-space.jpg?s=612x612&w=0&k=20&c=p5SsMquVf3QJMdDHBhXAbTRitp11ooOrlUnjtMIYKBo=",
+        "gifUrl": "https://cdn.jefit.com/assets/img/exercises/gifs/1222.gif"
+      },
+      {
+        "id": 14,
+        "name": "Step-Ups",
+        "description": "A functional lower-body exercise that mimics everyday movements, targeting the legs and glutes.",
+        "equipment": "Body Weight",
+        "target": "Legs",
+        "secondaryMuscles": ["Glutes", "Core"],
+        "instructions": [
+          "Stand in front of a step or bench.",
+          "Step up with one foot, then bring the other foot up to meet it.",
+          "Step back down one foot at a time and repeat."
+        ],
+        "reps": "15 reps each leg",
+        "exerciseUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBkgXphiRJK5A3P941me5Wor7S2PQxWojo6w&s",
+        "gifUrl": "https://media.gifdb.com/exercise-plyo-box-step-ups-crs76u7dyg7dnln3.gif"
+      },
+      {
+        "id": 15,
+        "name": "Donkey Kicks",
+        "description": "An effective exercise for isolating the glutes and improving lower-body strength and stability.",
+        "equipment": "Body Weight",
+        "target": "Glutes",
+        "secondaryMuscles": ["Core"],
+        "reps": "15 reps each side",
+        "instructions": [
+          "Start on all fours with your hands under your shoulders and knees under your hips.",
+          "Lift one leg, keeping your knee bent at 90 degrees.",
+          "Push your heel toward the ceiling, squeezing your glutes.",
+          "Lower back down and repeat on the other side."
+        ],
+        "exerciseUrl": "https://media.istockphoto.com/id/1328898365/photo/happy-woman-in-sportswear-doing-donkey-kicks-exercise.jpg?s=612x612&w=0&k=20&c=XK4gxCOIa9PMzg8u-6uFw3zdDq3Qkba2hWKcB0Yo1Pc=",
+        "gifUrl": "https://media1.popsugar-assets.com/files/thumbor/cvvLTZlQyITHRaIQvRVq-A9LgvA=/fit-in/1584x1002/top/filters:format_auto():upscale()/2015/08/12/555/n/1922398/a215f709_best-bodies-day3-donkey-kick.gif"
+      },
+      {
+        "id": 16,
+        "name": "Wall Sit",
+        "description": "A static lower-body exercise that strengthens the quads and core while testing endurance.",
+        "equipment": "Body Weight",
+        "target": "Legs",
+        "secondaryMuscles": ["Glutes", "Core"],
+        "instructions": [
+          "Stand with your back against a wall and feet shoulder-width apart.",
+          "Slide down the wall until your knees are at 90-degree angles.",
+          "Hold the position, keeping your core tight.",
+          "Stand back up and repeat."
+        ],
+        "time": "1 minute",
+        "exerciseUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkbYAQWECfntS5kYW4oHrx1M109EpCupIQrQ&s",
+        "gifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWsxOGhscGJpZm8zY2gyeGkzZXZxMGQzczA2ZWR2NTZmYWc1cWwwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NaKGjtR1bMgVTH5Rds/giphy.gif"
+      },
+      {
+        "id": 17,
+        "name": "Calf Raises",
+        "description": "A simple yet effective exercise for strengthening the calf muscles and improving balance.",
+        "equipment": "Body Weight",
+        "target": "Calves",
+        "secondaryMuscles": [],
+        "instructions": [
+          "Stand with your feet hip-width apart.",
+          "Rise up onto the balls of your feet, lifting your heels off the ground.",
+          "Hold for a second, then lower back down.",
+          "Repeat the movement."
+        ],
+        "reps": "20 reps",
+        "exerciseUrl": "https://i.ytimg.com/vi/-M4-G8p8fmc/maxresdefault.jpg",
+        "gifUrl": "https://cdn.jefit.com/assets/img/exercises/gifs/1227.gif"
+      },
+      {
+        "id": 18,
+        "name": "Side Lunges",
+        "description": "A lateral movement that targets the inner and outer thighs, glutes, and core for improved leg strength and balance.",
+        "equipment": "Body Weight",
+        "target": "Legs",
+        "secondaryMuscles": ["Glutes", "Core"],
+        "instructions": [
+          "Start standing with your feet together.",
+          "Step out to the side with one leg, bending that knee while keeping the other leg straight.",
+          "Push back to the starting position and repeat on the other side."
+        ],
+        "reps": "12 reps each side",
+        "exerciseUrl": "https://media.istockphoto.com/id/1175739738/photo/front-view-of-a-fit-woman-doing-side-lunges-near-the-river.jpg?s=612x612&w=0&k=20&c=ZuMzgCFUu9x1Z7JvdjIScAbEqCZoK8kgLneG2agT4d0=",
+        "gifUrl": "https://tenor.com/bw7x4.gif"
+      },
+      {
+        "id": 19,
+        "name": "Single-Leg Deadlift",
+        "description": "An advanced lower-body exercise that targets the hamstrings, glutes, and core while improving balance.",
+        "equipment": "Body Weight",
+        "target": "Hamstrings",
+        "secondaryMuscles": ["Glutes", "Core"],
+        "instructions": [
+          "Start standing with your feet together.",
+          "Lift one leg behind you while keeping your back straight.",
+          "Lower your torso toward the floor while balancing on the other leg.",
+          "Return to the starting position and switch legs."
+        ],
+        "reps": "10 reps each side",
+        "exerciseUrl": "https://cdn.mos.cms.futurecdn.net/hVMXLZpLGaQXCFDHBxCAfS.jpg",
+        "gifUrl": "https://tenor.com/b1EhC.gif"
+      },
+      {
+        "id": 20,
+        "name": "Bridge March",
+        "description": "A core and glute-focused exercise that builds strength in the posterior chain through alternating leg lifts in a bridge position.",
+        "equipment": "Body Weight",
+        "target": "Glutes",
+        "secondaryMuscles": ["Hamstrings", "Core"],
+        "instructions": [
+          "Lie on your back with your knees bent and feet flat on the floor.",
+          "Lift your hips into a bridge position.",
+          "Lift one knee toward your chest, then lower it back down.",
+          "Repeat on the other side while keeping your hips lifted."
+        ],
+        "reps": "15 reps each side",
+        "exerciseUrl": "https://images.ctfassets.net/hjcv6wdwxsdz/7KMn9axHkdRmbkoejvkrwo/6699f5ad3ef63ef509cc49fdd43d2a19/bridge-claudia-hold__1_.png",
+        "gifUrl": "https://media.self.com/photos/57d885de24fe9dae328313b1/master/w_1600,c_limit/MARCHING_GLUTE_BRIDGE-1.gif"
+      }
+    ]
+  },
+  {
+    "name": "Upper-Body Workout",
+    "workoutId": "upper",
+    "equipments": [
+      {
+        "name": "Body Weight",
+        "animatedImage": ""
+      }
+    ],
+    "estimatedTime": "40 minutes",
+    "estimatedCalories": "400 calories",
+    "exercises": [
+      {
+        "id": 21,
+        "name": "Pull-Up",
+        "description": "A challenging upper-body exercise that targets the back and biceps, promoting overall upper body strength.",
+        "equipment": "Body Weight",
+        "target": "Back",
+        "secondaryMuscles": ["Biceps", "Shoulders"],
+        "instructions": [
+          "Hang from a pull-up bar with your palms facing away from you.",
+          "Pull your body up until your chin is above the bar.",
+          "Lower back down to the starting position.",
+          "Repeat the movement."
+        ],
+        "reps": "10 reps",
+        "exerciseUrl": "https://hips.hearstapps.com/hmg-prod/images/mh0418-fit-pul-01-1558554157.jpg",
+        "gifUrl": "https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/pullup-1456956490.gif"
+      },
+      {
+        "id": 22,
+        "name": "Tricep Dips",
+        "description": "An upper-body exercise that primarily targets the triceps while also engaging the chest and shoulders.",
+        "equipment": "Body Weight",
+        "target": "Triceps",
+        "secondaryMuscles": ["Chest", "Shoulders"],
+        "instructions": [
+          "Sit on the edge of a bench or chair with your hands next to your hips.",
+          "Slide your hips off the bench and lower your body by bending your elbows.",
+          "Push back up to the starting position.",
+          "Repeat the movement."
+        ],
+        "reps": "12 reps",
+        "exerciseUrl": "https://s3assets.skimble.com/assets/36217/skimble-workout-trainer-tricep-dips-1-5071_iphone.jpg",
+        "gifUrl": "https://cdn.jefit.com/assets/img/exercises/gifs/229.gif"
+      },
+      {
+        "id": 23,
+        "name": "Pike Push-Up",
+        "description": "A bodyweight shoulder exercise that also strengthens the triceps and core, ideal for improving upper-body stability.",
+        "equipment": "Body Weight",
+        "target": "Shoulders",
+        "secondaryMuscles": ["Triceps", "Core"],
+        "instructions": [
+          "Start in a downward dog position with your hips raised and hands on the floor.",
+          "Lower your head toward the floor by bending your elbows.",
+          "Push back up to the starting position.",
+          "Repeat the movement."
+        ],
+        "reps": "12 reps",
+        "exerciseUrl": "https://images.ctfassets.net/hjcv6wdwxsdz/7ttOp8ER6qe63u4WiTQDla/0e5d9078c0e6b997c3c7d67b51da6eaa/pike-push-up-curt-hold.png?w=1200",
+        "gifUrl": "https://tenor.com/bzpRj.gif"
+      },
+      {
+        "id": 24,
+        "name": "Inverted Row",
+        "description": "A bodyweight pulling exercise that targets the back and biceps, improving upper body pulling strength.",
+        "equipment": "Body Weight",
+        "target": "Back",
+        "secondaryMuscles": ["Biceps", "Shoulders"],
+        "instructions": [
+          "Lie on your back under a bar or table with your feet on the floor.",
+          "Grip the bar with your hands shoulder-width apart.",
+          "Pull your chest up toward the bar, keeping your body straight.",
+          "Lower back down and repeat."
+        ],
+        "reps": "12 reps",
+        "exerciseUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8PC4kUnebdykP5RnrOvNkzlBueNZlYGrlKg&s",
+        "gifUrl": "https://tenor.com/njWxPPdVkzS.gif"
+      },
+      {
+        "id": 25,
+        "name": "Decline Push-Up",
+        "description": "A variation of the traditional push-up that targets the upper chest and shoulders, building upper-body strength.",
+        "equipment": "Body Weight",
+        "target": "Chest",
+        "secondaryMuscles": ["Triceps", "Shoulders"],
+        "instructions": [
+          "Start in a high plank position with your feet elevated on a bench or step.",
+          "Lower your body until your chest nearly touches the floor.",
+          "Push back up to the starting position.",
+          "Repeat the movement."
+        ],
+        "reps": "12 reps",
+        "exerciseUrl": "https://img.freepik.com/free-photo/young-fitness-woman-stands-push-up-bars-stand-doing-plunk-exercise-home-does-chest-press-worko_1258-183886.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1723248000&semt=ais_hybrid",
+        "gifUrl": "https://www.sparkpeople.com/assets/exercises/Decline-Pushups.gif"
+      },
+      {
+        "id": 26,
+        "name": "Superman",
+        "description": "A bodyweight exercise that targets the lower back, glutes, and hamstrings, improving posterior chain strength.",
+        "equipment": "Body Weight",
+        "target": "Lower Back",
+        "secondaryMuscles": ["Glutes", "Hamstrings"],
+        "instructions": [
+          "Lie face down on the floor with your arms extended in front of you.",
+          "Lift your arms, chest, and legs off the floor simultaneously.",
+          "Hold the position for a few seconds, then lower back down.",
+          "Repeat the movement."
+        ],
+        "time": "30 seconds",
+        "exerciseUrl": "https://bod-blog-assets.prod.cd.beachbodyondemand.com/bod-blog/wp-content/uploads/2022/10/21105244/superman-exercise-960.png",
+        "gifUrl": "https://www.sparkpeople.com/assets/exercises/Superman.gif"
+      },
+      {
+        "id": 27,
+        "name": "Diamond Push-Up",
+        "description": "A push-up variation that places more emphasis on the triceps and chest, enhancing upper body strength.",
+        "equipment": "Body Weight",
+        "target": "Triceps",
+        "secondaryMuscles": ["Chest", "Shoulders"],
+        "instructions": [
+          "Start in a high plank position with your hands close together, forming a diamond shape.",
+          "Lower your body until your chest nearly touches your hands.",
+          "Push back up to the starting position.",
+          "Repeat the movement."
+        ],
+        "reps": "12 reps",
+        "exerciseUrl": "https://res.cloudinary.com/peloton-cycle/image/fetch/c_fill,dpr_1.0,w_300,h_300,x_648,y_1039/f_auto/q_auto/https://images.ctfassets.net/6ilvqec50fal/JdeBsAsNI2XepyM4IDL1U/ef2c96e26f7c3af5bce6db428cd1237f/Screenshot_2024-03-21_at_12.36.05_PM.png",
+        "gifUrl": "https://makeagif.com/i/5CJRUj"
+      },
+      {
+        "id": 28,
+        "name": "Plank to Push-Up",
+        "description": "A dynamic core and upper-body exercise that improves core stability and upper body strength through plank and push-up transitions.",
+        "equipment": "Body Weight",
+        "target": "Core",
+        "secondaryMuscles": ["Shoulders", "Triceps"],
+        "instructions": [
+          "Start in a forearm plank position.",
+          "Push up onto your hands one at a time, transitioning into a high plank.",
+          "Lower back down to your forearms and repeat the movement."
+        ],
+        "time": "45 seconds",
+        "exerciseUrl": "https://welltech.com/wp-content/uploads/2022/10/how-to-do-a-pushup-plank_cover.jpg",
+        "gifUrl": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5naDcxZnBwdXRyc2Q2aTUzemNkNDYyNzFsbDdnbXZmMDNleWJlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7zuAQ6ebll6maa2rBF/giphy-downsized.gif"
+      },
+      {
+        "id": 29,
+        "name": "Dive Bomber Push-Up",
+        "description": "An advanced push-up variation that engages the chest, shoulders, triceps, and core in a flowing movement pattern.",
+        "equipment": "Body Weight",
+        "target": "Chest",
+        "secondaryMuscles": ["Shoulders", "Triceps", "Core"],
+        "instructions": [
+          "Start in a downward dog position with your hips raised.",
+          "Lower your chest toward the floor in a swooping motion, then push up into a cobra pose.",
+          "Reverse the movement back to the starting position.",
+          "Repeat the movement."
+        ],
+        "reps": "10 reps",
+        "exerciseUrl": "https://cdn.oxygenmag.com/wp-content/uploads/2021/03/DiveBomberPushUp.jpg",
+        "gifUrl": "https://makeagif.com/i/tzsOOs"
+      },
+      {
+        "id": 30,
+        "name": "Handstand Push-Up",
+        "description": "An advanced bodyweight exercise that primarily targets the shoulders, requiring significant core and upper body strength.",
+        "equipment": "Body Weight",
+        "target": "Shoulders",
+        "secondaryMuscles": ["Triceps", "Core"],
+        "instructions": [
+          "Start in a handstand position against a wall.",
+          "Lower your head toward the floor by bending your elbows.",
+          "Push back up to the starting position.",
+          "Repeat the movement."
+        ],
+        "reps": "8 reps",
+        "exerciseUrl": "https://doctorlib.info/sport/mens-health-body/mens-health-body.files/image090.jpg",
+        "gifUrl": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFqMzYwYWc4Y2lkY3RoMTlocG44ZHRpdDEzOW1oOWM2a2E0djYwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A7Bajd2J3kVABAMfCn/giphy-downsized.gif"
+      }
+    ]
+  }
+]
