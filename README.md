@@ -5,6 +5,12 @@ It’s designed with a clean, modern interface to keep users motivated and engag
 
 ### 📱 App Screenshots
 <p align="center">
+     <img width="400" alt="6" src="https://github.com/user-attachments/assets/87f43b4a-6f26-4a67-9797-324633fdd8c3" />
+     <img width="400" alt="7" src="https://github.com/user-attachments/assets/b57f0641-faf6-4642-a672-0d37cf750236" />
+
+</p>
+
+<p align="center">
      <img width="150" alt="Onboarding1" src="https://github.com/user-attachments/assets/bd6db84a-5903-4ea5-94f7-2946c2728e30" />
    <img width="150" alt="Screenshot_20250719-030928" src="https://github.com/user-attachments/assets/4e44732a-fc5b-4378-8181-e089156ecbb6" />
    <img width="150" alt="Screenshot_20250719-030858" src="https://github.com/user-attachments/assets/ed437814-37f6-430a-825d-eb3e09575280" />
