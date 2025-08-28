@@ -1,79 +1,37 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## 🏋️ DidpoolFit – Fitness & Gym App
 
-# Getting Started
+DidpoolFit is a complete fitness and gym companion app that helps users create workout routines, track progress, read weekly health articles, and schedule workouts.  
+It’s designed with a clean, modern interface to keep users motivated and engaged on their fitness journey.  
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+### 📱 App Screenshots
+<p align="center">
+     <img width="150" alt="Onboarding1" src="https://github.com/user-attachments/assets/bd6db84a-5903-4ea5-94f7-2946c2728e30" />
+   <img width="150" alt="Screenshot_20250719-030928" src="https://github.com/user-attachments/assets/4e44732a-fc5b-4378-8181-e089156ecbb6" />
+   <img width="150" alt="Screenshot_20250719-030858" src="https://github.com/user-attachments/assets/ed437814-37f6-430a-825d-eb3e09575280" />
+   <img width="150" alt="Screenshot_20250719-030801" src="https://github.com/user-attachments/assets/1dfa46d4-002a-4864-8765-5eb7ba8aad51" />
+   <img width="150" alt="Screenshot_20250719-030644" src="https://github.com/user-attachments/assets/737b5651-8057-4a01-8357-26f6b8e45fc5" />
+   <img width="150" alt="Register Page - 2" src="https://github.com/user-attachments/assets/62b28c45-7f51-4027-9939-6ec98e0b8287" />
+   <img width="150" alt="Screenshot_20250719-030247" src="https://github.com/user-attachments/assets/f65ade16-a9c0-47c3-be9e-074271ec2443" />
+   <img width="150" alt="Screenshot_20250719-030538" src="https://github.com/user-attachments/assets/5a1a1202-348e-40db-a44e-33d81458824f" />
+   <img width="150" alt="Screenshot_20250719-030520" src="https://github.com/user-attachments/assets/cb0259cf-dc7f-4aee-b495-85de348637de" />
+   <img width="150" alt="Screenshot_20250719-031119" src="https://github.com/user-attachments/assets/6450854a-34fe-40b2-8efd-f5b7d5efaae0" />
+   <img width="150" alt="Screenshot_20250719-031052" src="https://github.com/user-attachments/assets/fb6ae28c-8e52-4f58-a1a8-e89b69854fdc" />
+   <img width="150" alt="Screenshot_20250719-030939" src="https://github.com/user-attachments/assets/a8613944-5a07-4e09-aac0-f062b883c09d" />
 
-## Step 1: Start the Metro Server
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+</p>
 
-To start Metro, run the following command from the _root_ of your React Native project:
+### 🚀 Features
+- Personalized workout plans  
+- Progress tracking & statistics dashboard  
+- Weekly health and fitness articles  
+- Workout scheduling & reminders  
+- Intuitive and motivational UI/UX  
 
-```bash
-# using npm
-npm start
+### 🛠️ Tech Stack
+- **React Native** (cross-platform app development)  
+- **Firebase** (authentication, real-time database, notifications)  
+- **Charts Library** (progress tracking visualization)  
 
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+> 💡 *This app is a strong showcase of fitness-tech solutions.  
+If you’re building a fitness, wellness, or lifestyle app — this project highlights my ability to deliver engaging and scalable solutions.*  
